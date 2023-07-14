@@ -1,0 +1,27 @@
+ .dark {
+    background-color: black;
+    color: white;
+ }
+
+ body {
+    transition: all 0.5s; 
+}
+
+button {
+padding: 10px 20px;
+background-color:rgb(218, 194, 240);
+border: 1px solid black;
+border-radius: 10px;
+
+ fonte-sise: 16px
+}
+
+img {
+     width:100%;
+}
+
+.esconder {
+   display: none;
+}
+
+
